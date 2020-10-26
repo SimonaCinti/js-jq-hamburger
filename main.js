@@ -10,7 +10,6 @@ hamburgerShow.click(function(){
     hamburgerMenu.show();
 });
 
-
 hamburgerHide .click(function(){
     hamburgerMenu.hide(); 
-})
+});
